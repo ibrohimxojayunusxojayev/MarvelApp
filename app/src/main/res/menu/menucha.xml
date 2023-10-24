@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        android:iconTint="@color/white"/>
+    <item android:id="@+id/download"
+        android:title="Downloads"
+        android:icon="@drawable/baseline_cloud_download_24"
+        android:iconTint="@color/white"/>
+    <item android:id="@+id/more"
+        android:title="More"
+        android:icon="@drawable/baseline_more_horiz_24"
+        android:iconTint="@color/white"/>
+</menu>
